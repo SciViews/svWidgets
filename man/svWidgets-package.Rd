@@ -3,7 +3,7 @@
 \alias{svWidgets}
 \docType{package}
 
-\title{ SciViews GUI API - Widgets & Windows }
+\title{ Management of GUI Widgets, Windows, and Other GUI Resources }
 \description{
   High level management of widgets, windows and other graphical resources.
 }
